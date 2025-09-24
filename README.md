@@ -3,7 +3,7 @@
 Interactive Streamlit app that walks through simple linear regression end-to-end using the CRISP-DM framework.
 
 ## Live Demo
-- Live demo on Streamlit Cloud: https://aiotda.streamlit.app/
+- Live demo on Streamlit Cloud: https://aiotda.streamlit.app/7114056076
 
 Generate synthetic data with a known line, compare closed-form and scikit-learn fits, inspect diagnostics, and export the dataset for downstream exploration.
 
