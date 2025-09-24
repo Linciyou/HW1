@@ -41,13 +41,4 @@ Generate synthetic data with a known line, compare closed-form and scikit-learn 
 - Increase the noise term to see how residual spread affects MSE, MAE, and R^2.
 - Increase the number of points to watch both estimators converge to the true slope and intercept.
 
-## Development Summary
-This section provides a summary of the development steps taken, as recorded in 0_devLog.md.
-
-1.0-2.0: Initial setup, including the creation of the development log (0_devLog.md) and the to-do list (Todo.md).
-3.0-4.0: Modification and verification of the project plan.
-5.0: Execution of the project plan, starting with the creation of the Streamlit application (app.py).
-6.0-11.0: Troubleshooting and resolving issues related to running the Streamlit application, including the creation of requirements.txt, setting up a virtual environment, and installing dependencies.
-12.0-13.0: Successfully running the Streamlit application.
-
 
