@@ -1,6 +1,11 @@
 # Linear Regression Learning Lab
 
-Interactive Streamlit app that walks through simple linear regression end-to-end using the CRISP-DM framework. Generate synthetic data with a known line, compare closed-form and scikit-learn fits, inspect diagnostics, and export the dataset for downstream exploration.
+Interactive Streamlit app that walks through simple linear regression end-to-end using the CRISP-DM framework.
+
+## Live Demo
+- Live demo on Streamlit Cloud: https://aiotda.streamlit.app/
+
+Generate synthetic data with a known line, compare closed-form and scikit-learn fits, inspect diagnostics, and export the dataset for downstream exploration.
 
 ## Features
 - Synthetic data from the equation `y = a * x + b + noise` with user controls for slope, intercept, sample size, noise, x-range, and random seed.
